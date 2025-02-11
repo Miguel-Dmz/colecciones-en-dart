@@ -1,4 +1,5 @@
 void main() {  
+  print("Miguel Angel Dominguez Lopez. Mat: 22308051281173. Grup: 6ºJ \n");
    List<int> numeros =[10,20,30];
    print("Lista de números: ");
    print(numeros);
