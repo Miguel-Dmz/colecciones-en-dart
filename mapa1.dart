@@ -4,5 +4,13 @@ void main(){
   print("mapa de alumnos");
   print(alumnos);
 
+  print("integrar un mapa con foreach");
+  alumnos.forEach((key, value) {
+    print("key: $key, value: $value");
+  });
 
+  print("\n integrar un map con for in");
+  for(var value in alumnos.values){
+    print("$value");
+  }
 }
