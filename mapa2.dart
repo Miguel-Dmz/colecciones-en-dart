@@ -8,7 +8,7 @@ void main() {
     'correo': 'hdbchd@cbtis128.edu.mx',
     'Horario': '8:00 am - 2:00 pm'
   };
-  print("MAPA DE SUCURSAL");
+  print("*****MAPA DE SUCURSAL*****");
   print(sucursal);
 
   print("\n integrar un mapa con foreach");
@@ -29,7 +29,7 @@ void main() {
     'Fecha de venta': '2021-10-12',
     'Total': '1500',
   };
-  print("MAPA DE VENTA");
+  print("*****MAPA DE VENTA*****");
   print(venta);
 
   print("\n integrar un mapa con foreach");

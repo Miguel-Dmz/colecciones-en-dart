@@ -5,4 +5,4 @@ salida de datos map (venta)
 ![alt text](image-4.png)
 
 Salida total
-![alt text](image-5.png).
+![alt text](image-5.png)
